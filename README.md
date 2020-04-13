@@ -1,4 +1,4 @@
-# brazo_robotico_java
+# Diseño y construcción de un brazo robotico implementando el patrón de arquitectura MVC
 Taller de Informatica Esp IS
 
 # Integrantes
