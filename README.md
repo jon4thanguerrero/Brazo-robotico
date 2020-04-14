@@ -6,4 +6,4 @@ Taller de Informática - Especialización en ingenieria del sotware
 - Jonathan Guerrero
 
 # Documentación de las clases del proyecto
-dist/javadoc/index.html
+La documentación técnica del proyecto se ubica en: dist/javadoc/index.html
